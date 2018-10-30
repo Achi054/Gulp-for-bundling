@@ -1,0 +1,37 @@
+{
+    "bundles": [
+        {
+            "bundle_name" : "common1_bundle",
+            "bundle_files" : [
+                    "Scripts/Common/Common_1.js"
+                ]
+        },
+        {
+            "bundle_name" : "common2_bundle",
+            "bundle_files" : [
+                "Scripts/Common/Common_2.js"
+            ]
+        },
+        {
+            "bundle_name" : "accounts_bundle",
+            "bundle_files" : [
+                "Scripts/Accounts/Account_1.js",
+                "Scripts/Accounts/Account_2.js"
+            ]
+        },
+        {
+            "bundle_name" : "orderings_bundle",
+            "bundle_files" : [
+                "Scripts/Orderings/Ordering_1.js",
+                "Scripts/Orderings/Ordering_2.js"
+            ]
+        },
+        {
+            "bundle_name" : "selfreports_bundles",
+            "bundle_files" : [
+                "Scripts/SelfReports/SelfReport_1.js",
+                "Scripts/SelfReports/SelfReport_2.js"
+            ]
+        }
+    ]
+}
